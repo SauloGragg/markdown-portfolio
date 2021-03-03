@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. _Languages_ 
+    2. **Java**
+    3. **C**
+    4. _markdown_
